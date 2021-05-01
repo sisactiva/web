@@ -3,3 +3,18 @@ git commit
 git status
  configuracion global
 git config --global user.name "carlos"
+git config --global user.email "aguayfuego89@gmail.com"
+git add .
+git rm --cached <file>
+git commit 
+git config --list
+git config --global core.editor
+
+git commit -a
+git log, para ver los cambios 
+git commit -a -m ""  automatico agregar archivos comit y comentarios
+git clone ruta   para clonar
+
+git remote -v
+git add remote sisactiva url
+git push -u origin master
